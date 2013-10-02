@@ -1,0 +1,4 @@
+gobe
+*.swo
+*.swp
+.DS_Store
