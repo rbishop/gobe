@@ -14,7 +14,7 @@ Install
 
 Use go's great built in package getter, `go get`. The following will get the source and install gobe to your `$GOPATH` directory:
 
-`go get github.com/rjbishop/gobe`
+`go get github.com/rbishop/gobe`
 
 Use
 ---
